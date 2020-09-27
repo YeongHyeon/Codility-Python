@@ -6,7 +6,7 @@ The solutions of the <a href="https://app.codility.com/programmers/">Codility le
 * All solutions guarantee a perfect score.
 * The problems that have not resolved in this time will be solved and uploaded in the future.
 
-|Lesson|Problem|
+|Lesson|Solution|
 |:---|:---|
 |<a href="https://app.codility.com/programmers/lessons/1-iterations/">1.Iterations</a>|<a href="https://medium.com/@young200405/codility-lesson-01-binarygap-df4f303d77aa">BinaryGap</a>|
 |<a href="https://app.codility.com/programmers/lessons/2-arrays/">2.Arrays</a>|<a href="https://medium.com/@young200405/codility-lesson-02-1-cyclicrotation-5d177f8ef064">CyclicRotation</a>|
