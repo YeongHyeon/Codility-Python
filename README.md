@@ -17,3 +17,4 @@ The solutions of the <a href="https://app.codility.com/programmers/">Codility le
 |<a href="https://app.codility.com/programmers/lessons/4-counting_elements/">4.Counting Elements</a>|<a href="https://medium.com/@young200405/codility-lesson-04-1-frogriverone-ad89e58572e0">FrogRiverOne</a>|
 ||<a href="https://medium.com/@young200405/codility-lesson-04-2-maxcounters-1c2101df32f9">MaxCounters</a>|
 ||<a href="https://medium.com/@young200405/codility-lesson-04-3-missinginteger-249f4f638e72">MissingInteger</a>|
+||<a href="https://yeonghyeon.medium.com/codility-lesson-04-4-permcheck-522ca1d46deb">PermCheck</a>|
