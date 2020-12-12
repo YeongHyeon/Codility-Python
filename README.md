@@ -19,3 +19,4 @@ The solutions of the <a href="https://app.codility.com/programmers/">Codility le
 ||<a href="https://medium.com/@young200405/codility-lesson-04-3-missinginteger-249f4f638e72">MissingInteger</a>|
 ||<a href="https://yeonghyeon.medium.com/codility-lesson-04-4-permcheck-522ca1d46deb">PermCheck</a>|
 |<a href="https://app.codility.com/programmers/lessons/5-prefix_sums/">5.Prefix Sums</a>|<a href="https://yeonghyeon.medium.com/codility-lesson-05-1-countdiv-9b8c044b4c0c">CountDiv</a>|
+||<a href="https://yeonghyeon.medium.com/codility-lesson-05-2-genomicrangequery-29006df636f7">GenomicRangeQuery</a>|
